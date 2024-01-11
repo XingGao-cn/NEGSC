@@ -29,7 +29,17 @@ network intrusion detection system datasets[J]. Mobile networks and applications
 • *PyTorch version*: 1.13.1;<br />
 • *GPU*: NVIDIA GeForce RTX 4090, 24GB of GPU memory;<br />
 • *CPU*: Inteli9-13900k;<br />
-• *OS*: Linux Ubuntu 22.04 Jammy Jellyfish.
+• *OS*: Linux Ubuntu 22.04 Jammy Jellyfish.<br />
+
+• *Jupyter version*: 1.0.0;<br />
+• *Jupyter_client version*: 8.0.3;<br />
+• *Jupyter-console version*: 6.6.3;<br />
+• *Jupyter_core version*: 5.2.0;<br />
+• *Jupyter-events version*: 0.6.3;<br />
+• *Jupyter_server version*: 2.4.0;<br />
+• *Jupyter_server_terminals version*: 0.4.4;<br />
+• *Jupyterlab-pygments version*: 0.2.2;<br />
+• *Jupyterlab-widgets version*: 3.0.5.<br />
 
 
 ## Info
