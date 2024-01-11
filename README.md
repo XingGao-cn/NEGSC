@@ -31,6 +31,7 @@ network intrusion detection system datasets[J]. Mobile networks and applications
 • *CPU*: Inteli9-13900k;<br />
 • *OS*: Linux Ubuntu 22.04 Jammy Jellyfish.<br />
 
+• *jupyter-notebook version*: 6.5.3;<br />
 • *Jupyter version*: 1.0.0;<br />
 • *Jupyter_client version*: 8.0.3;<br />
 • *Jupyter-console version*: 6.6.3;<br />
