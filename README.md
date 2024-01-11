@@ -43,11 +43,15 @@ network intrusion detection system datasets[J]. Mobile networks and applications
 
 
 ## Info
-• Any issues regarding the paper is welcome, please contact us for help.
+• ***Any issues regarding the paper is welcome, please contact us for help***.<br />
 
-*Authors’ information*: Address: Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province, China Name&Email: XingGao email: 20202756@csuft.edu.cn or 1011084743@qq.com
+**Authors’ information**: <br />
 
-The doi of our paper will be upload later..
+•*Address:* Central South University of Forestry and Technology, 498 Shaoshan South Road, Tianxin District, Changsha, Hunan Province. China;<br />
+
+•*Name&Email:* XingGao email: 20202756@csuft.edu.cn or 1011084743@qq.com. <br />
+
+•The doi of our paper will be upload later..
 
 Thanks for reading！
 
