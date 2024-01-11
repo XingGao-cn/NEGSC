@@ -1,7 +1,9 @@
-Python 版本: 3.10.8 (main, Nov  4 2022, 13:48:29) [GCC 11.2.0]
-PyTorch 版本: 1.13.1
-数据集 https://staff.itee.uq.edu.au/marius/NIDS_datasets/
+Setup:
+Python version: 3.10.8 (main, Nov  4 2022, 13:48:29) [GCC 11.2.0]
+PyTorch version: 1.13.1
+dataset: https://staff.itee.uq.edu.au/marius/NIDS_datasets/
 
+Requirements:
 absl-py==2.0.0
 aiohttp==3.9.1
 aiosignal==1.3.1
